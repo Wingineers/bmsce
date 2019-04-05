@@ -9,6 +9,8 @@ we are collecting the info only right now.
   occurance 
 4.Then we use this model to predict the probalities of different persons on super dataset as they have some common attribute.
 5.Added probability of having a particular disease into our super dataset
+6.on the basis of these predicted values a sales person can decide this particular person is very likely to take health insurance.
+
 
 # Dependencies:
 1.numpy
