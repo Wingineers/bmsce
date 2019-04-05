@@ -16,3 +16,7 @@ we are collecting the info only right now.
 1.numpy
 2.pandas
 3.sklearn
+
+#Personel Information
+Aashutosh Kumar Jha:- nodemcu7138@gmail.com
+Shreyash Pandey :-qwerty1331999@gmail.com
